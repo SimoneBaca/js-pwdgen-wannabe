@@ -8,7 +8,7 @@
     let usercolor = prompt("Please enter your favourite color", "Verde");
 
    
-// uso var per il formato nomecognomecolore23 da scrivere sulla pagina
+// uso var let  per il formato nomecognomecolore23 da scrivere sulla pagina
 let nome = "Simone";
 let surname = "Bacaloni";
 let  color = "Verde";
